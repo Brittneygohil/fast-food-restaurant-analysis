@@ -1,0 +1,46 @@
+﻿item_id,restaurant_id,item_name,category,price
+1,1,Chicken Sandwich,Main,8.56
+2,1,Deluxe Chicken Sandwich,Main,6.71
+3,1,Waffle Fries,Sides,7.46
+4,1,Milkshake,Beverage,2.64
+5,1,Lemonade,Beverage,9.29
+6,2,Classic Burger,Main,8.33
+7,2,Veggie Burger,Main,3.99
+8,2,Poutine,Sides,3.77
+9,2,Soft Drink,Beverage,3.78
+10,2,Onion Rings,Beverage,4.63
+11,3,Big Mac,Main,6.17
+12,3,McChicken,Main,5.52
+13,3,Fries,Sides,4.54
+14,3,McFlurry,Beverage,6.78
+15,3,Coke,Beverage,3.48
+16,4,Chicken Sandwich,Main,4.55
+17,4,Deluxe Chicken Sandwich,Main,5.06
+18,4,Waffle Fries,Sides,5.69
+19,4,Milkshake,Beverage,8
+20,4,Lemonade,Beverage,3.9
+21,5,Classic Burger,Main,6.1
+22,5,Veggie Burger,Main,6.65
+23,5,Poutine,Sides,2.83
+24,5,Soft Drink,Beverage,6.75
+25,5,Onion Rings,Beverage,3.69
+26,6,Big Mac,Main,2.96
+27,6,McChicken,Main,9.14
+28,6,Fries,Sides,9.26
+29,6,McFlurry,Beverage,8.16
+30,6,Coke,Beverage,4.63
+31,7,Chicken Sandwich,Main,3.18
+32,7,Deluxe Chicken Sandwich,Main,7.29
+33,7,Waffle Fries,Sides,5.58
+34,7,Milkshake,Beverage,3.35
+35,7,Lemonade,Beverage,5.97
+36,8,Classic Burger,Main,2.74
+37,8,Veggie Burger,Main,8.87
+38,8,Poutine,Sides,4.31
+39,8,Soft Drink,Beverage,7.14
+40,8,Onion Rings,Beverage,4.68
+41,9,Big Mac,Main,6.14
+42,9,McChicken,Main,6.33
+43,9,Fries,Sides,3.79
+44,9,McFlurry,Beverage,9.29
+45,9,Coke,Beverage,7.93
