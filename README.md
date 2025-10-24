@@ -40,45 +40,7 @@ The goal is to understand revenue trends, customer loyalty, and restaurant effic
 
 ---
 
-## 🧩 Entity Relationship Diagram (ERD)
 
-```mermaid
-erDiagram
-    RESTAURANTS {
-        int restaurant_id PK
-        varchar name
-        varchar location
-        int opening_year
-    }
-
-    MENU_ITEMS {
-        int item_id PK
-        int restaurant_id FK
-        varchar item_name
-        varchar category
-        decimal price
-    }
-
-    CUSTOMERS {
-        int customer_id PK
-        varchar full_name
-        varchar gender
-        int age
-        varchar city
-    }
-
-    ORDERS {
-        int order_id PK
-        int customer_id FK
-        int item_id FK
-        date order_date
-        int quantity
-        decimal total_amount
-    }
-
-    RESTAURANTS ||--o{ MENU_ITEMS : "offers"
-    MENU_ITEMS ||--o{ ORDERS : "includes"
-    CUSTOMERS ||--o{ ORDERS : "places"
 🖼️Visual Insights
 📊 RFM Analysis
 
